@@ -1,0 +1,21 @@
+TODO: 
+- add responsive view -> menu should completely change the display on 575px also * header responsive needs fix too
+- add cart
+- add account (maybe)
+
+DONE:
+- make right menu sticky to the right side instead of flex -> also maybe add button for showing/hiding it like internalNav
+- fix content not recognized when refreshed
+- add detailed item view that will enable to see all the information about the current item
+- add logic and detailed item view component
+- refactor checkbox to radiobtn
+- fix the right menu for filtering moving when selecting choices
+- fix problem with coloring of selected choices on checkbox
+- make price on hover show tooltip how much time the discount lasts
+- reset coloring fix
+- create sorting functionality for price / shipping price / rating
+- create filtering for category in department
+- add prices to the card view and history prices + add design for huge discount 
+- make sort and filter a dropdown
+- refactor checkbox component to better accept info
+- 2decimals new price
