@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/online_shop/static/css/main.e5802d77.css",
-    "main.js": "/online_shop/static/js/main.02c338e6.js",
+    "main.js": "/online_shop/static/js/main.fb8d0085.js",
     "static/js/787.142da1d4.chunk.js": "/online_shop/static/js/787.142da1d4.chunk.js",
     "static/media/woodTexture.jpg": "/online_shop/static/media/woodTexture.4e61736f1236030d48b1.jpg",
     "static/media/cart.svg": "/online_shop/static/media/cart.cbc2f73fca10aebd72c5b1a3984d7ed5.svg",
@@ -9,11 +9,11 @@
     "static/media/wishlist.svg": "/online_shop/static/media/wishlist.f71fce57a89519b25c3fbabf0835637a.svg",
     "index.html": "/online_shop/index.html",
     "main.e5802d77.css.map": "/online_shop/static/css/main.e5802d77.css.map",
-    "main.02c338e6.js.map": "/online_shop/static/js/main.02c338e6.js.map",
+    "main.fb8d0085.js.map": "/online_shop/static/js/main.fb8d0085.js.map",
     "787.142da1d4.chunk.js.map": "/online_shop/static/js/787.142da1d4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e5802d77.css",
-    "static/js/main.02c338e6.js"
+    "static/js/main.fb8d0085.js"
   ]
 }
